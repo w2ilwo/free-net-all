@@ -1,0 +1,29 @@
+{
+"inbounds": [
+{
+"port": 8080,
+"protocol": "vless",
+"settings": {
+"clients": [
+{
+"id": "eeeeeeee-cccc-0ccc-0eee-cccceeeecccc",
+"level": 0
+}
+],
+"decryption": "none"
+},
+"streamSettings": {
+"network": "ws",
+"wsSettings": {
+"path": "/Telegram/@w2ilwe/@x_3_o_x"
+}
+}
+}
+],
+"outbounds": [
+{
+"protocol": "freedom",
+"settings": {}
+}
+]
+}
